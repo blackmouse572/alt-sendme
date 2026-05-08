@@ -53,8 +53,6 @@ Thumbs.db
 logs/
 
 # Environment files
-.env
-.env.local
 .env.development.local
 .env.test.local
 .env.production.local
@@ -127,3 +125,4 @@ docs/
 .github-reference-readest/
 docs/fdroid-metadata-example.yml
 docs/fdroid-metadata-example.yml
+config.bat
